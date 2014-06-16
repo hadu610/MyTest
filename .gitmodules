@@ -1,0 +1,6 @@
+[submodule "Submodule"]
+	path = Submodule
+	url = https://github.com/syedhali/EZAudio.git
+[submodule "submodule 2"]
+	path = submodule 2
+	url = https://github.com/hadu610/NhanTest.git
